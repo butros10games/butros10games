@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Butros J. G. Groot — software developer building useful products for web, sport, and play" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+    <img src="./assets/profile-header.svg" width="100%" alt="Butros J. G. Groot — software developer building useful products for web, sport, and play" />
+  </picture>
 </p>
 
 <p align="center">
